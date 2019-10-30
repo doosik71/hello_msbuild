@@ -1,0 +1,1 @@
+msbuild myproject.vcxproj /p:configuration=debug
